@@ -1,6 +1,6 @@
 # Quiz de Programação
 
-Neste projeto, foi criado um site simples com algumas perguntas sobre programação onde o usuário pode escolher uma opção. Ao escolher, se estiver errada, a resposta certa será mostrada; se estiver certa, é somado um ponto e segue para a próxima pergunta, até o final das 5 perguntas. No fim do jogo, é mostrada a pontuação e quantidade de acertos.
+Neste projeto, foi criado um site simples com algumas perguntas sobre programação, divididas por categorias (HTML, CSS e JavaScript), onde o usuário pode escolher uma opção. Ao escolher, se estiver errada, a resposta certa será mostrada; se estiver certa, é somado um ponto e segue para a próxima pergunta, até o final das 5 perguntas. No fim do jogo, é mostrada a pontuação e quantidade de acertos.
 
 ### Tecnologias utilizadas
 - React.js
@@ -11,8 +11,7 @@ Neste projeto, foi criado um site simples com algumas perguntas sobre programaç
 É necessário ter o [Node.js](https://nodejs.org/en) instalado na sua máquina.
 1. Faça clone deste repositório:
 ```bash
-git clone https://github.com/carolcampos22/quiz.git
-
+git clone https://github.com/carolcampos22/quiz-react.git
 ```
 2. Entre na pasta do projeto e instale as dependências:
 
