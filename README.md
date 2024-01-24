@@ -43,6 +43,9 @@ Em seguida, clique no link que aparecerá no terminal.
 4. Fim do jogo
 ![](./src/img/prints/endgame.png)
 
+### Link do site
+Você pode visualizar o site neste [link](https://quiz-react-91dn0y7gj-carolcampos22.vercel.app/). 
+
 ### Próximos passos
 
 - Mostrar dicas
