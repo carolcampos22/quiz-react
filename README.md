@@ -25,7 +25,7 @@ npm install
 npm run start
 
 ```
-Em seguida, clique no link que aparecerá no terminal (http://localhost:5173/)
+Em seguida, clique no link que aparecerá no terminal.
 
 
 ### Layout
